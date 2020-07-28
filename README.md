@@ -1,2 +1,2 @@
 # epicn.github.io
-Personal website
+Website
