@@ -1,23 +1,23 @@
 body {
     margin: 2% auto; 
-    background: #ffffff; 
-    color: #000000;  
+    background: #000000;
+    color: #ffffff;
     font-family: Font;
     font-size: 16px; 
     line-height: 2; 
     max-width: 80%;
 }
 code {
-    background: #ffffff;
+    background: #000000;
 }
 a {
-    color: #000000; 
+    color: #ffffff;
     font-weight: bold;
     text-decoration: none;
     padding-right: 15px;
 }
 a:hover {
-    color: #FF7900;
+    color: #c3edff;
 }
 
 @font-face {
