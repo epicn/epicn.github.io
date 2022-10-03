@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: auto;
     background: #000000;
     color: #ffffff;
     font-family: Font;
@@ -10,8 +10,9 @@ body {
 }
 
 head {
-    margin: auto;
+    margin: 10px;
     text-align: center;
+    padding: 10px;
 }
 
 code {
