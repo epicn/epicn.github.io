@@ -6,17 +6,21 @@ body {
     font-size: 20px;
     line-height: 2; 
     max-width: 80%;
+    text-align: center;
 }
+
+head {
+    text-align: center;
+}
+
 code {
     background: #000000;
 }
 a {
     color: #ffffff;
-    font-weight: bold;
     text-decoration: none;
     text-align: center;
-    padding: 15px;
-    display: inline-block;
+    padding: 10px;
 }
 a:hover {
     color: #c3edff;
