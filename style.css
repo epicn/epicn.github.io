@@ -3,7 +3,7 @@ body {
     background: #000000;
     color: #ffffff;
     font-family: Font;
-    font-size: 16px; 
+    font-size: 20px;
     line-height: 2; 
     max-width: 80%;
 }
@@ -14,7 +14,9 @@ a {
     color: #ffffff;
     font-weight: bold;
     text-decoration: none;
-    padding-right: 15px;
+    text-align: center;
+    padding: 15px;
+    display: inline-block;
 }
 a:hover {
     color: #c3edff;
