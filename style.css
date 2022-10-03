@@ -1,15 +1,16 @@
 body {
-    margin: 2% auto; 
+    margin: auto;
     background: #000000;
     color: #ffffff;
     font-family: Font;
     font-size: 20px;
-    line-height: 2; 
+    line-height: 1;
     max-width: 80%;
     text-align: center;
 }
 
 head {
+    margin: auto;
     text-align: center;
 }
 
@@ -17,10 +18,11 @@ code {
     background: #000000;
 }
 a {
+    margin: auto;
     color: #ffffff;
     text-decoration: none;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
 }
 a:hover {
     color: #c3edff;
