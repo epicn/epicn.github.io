@@ -9,7 +9,7 @@ body {
     text-align: center;
 }
 
-head {
+h1 {
     margin: 10px;
     text-align: center;
     padding: 10px;
@@ -33,7 +33,7 @@ a:hover {
 
 @font-face {
   font-family: Font;
-  src: url("./Fonts/VarelaRound-Regular.ttf");
+  src: url("./Fonts/Inconsolata-Regular.ttf");
 }
 
 div {
